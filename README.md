@@ -1,5 +1,3 @@
-# End-to-End-ML-System-Classification-Clustering-Dimensionality-Reduction
-
 # **Multi-Dataset Machine Learning Pipeline Framework**
 
 This project implements a complete machine learning workflow applied to three distinct datasets: structured tabular data, image-based data, and high-dimensional synthetic data.
